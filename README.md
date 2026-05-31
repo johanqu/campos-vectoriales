@@ -52,7 +52,7 @@ campos-vectoriales/
 
 ```bash
 git clone https://github.com/johanqu/campos-vectoriales.git
-cd campos-vectoriales
+cd parcialCalculo
 pip install -r requirements.txt
 ```
 

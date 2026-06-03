@@ -11,6 +11,8 @@ Prof. Aimer Antonio Rivas Montoya
 | Nombre | 
 |---|
 | Johan Quintero |
+| Cristian Gutierrez |
+| Victor Parra |
 ---
 
 ## Descripcion
